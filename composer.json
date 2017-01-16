@@ -1,0 +1,15 @@
+{
+    "name": "thehappybug/goodcat",
+    "description": "Generate ASCII art for a good cat. =^-^=",
+    "authors": [
+        {
+            "name": "Mehdi Raza",
+            "email": "mehdi991@gmail.com"
+        }
+    ],
+    "require": {},
+    "version": "1.0",
+    "autoload": {
+        "psr-4": {"thehappybug\\GoodCat\\": "src/"}
+    }
+}
